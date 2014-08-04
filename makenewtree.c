@@ -1,13 +1,13 @@
 /*********************************
 **********************************
-** Created by Brian Francisco 	**
-**	on 07-11-2014	            	**
-**			                      	**
-** Loops over file	          	**
+** Created by Brian Francisco	**
+**	on 07-11-2014		**
+**				**
+** Loops over file		**
 ** "OmniTree_BprimeBprimeTo..."	**
 ** and creates new, simplified	**
-** tree for Bprime analysis	    **
-**			                      	**
+** tree for Bprime analysis	**
+**				**
 **********************************
 *********************************/
 
